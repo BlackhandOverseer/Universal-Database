@@ -1,2 +1,2 @@
 # Universal-Database
-For managing people outside of Shiguto.
+I'll probably have this one private unlike the Shiguto Database.
